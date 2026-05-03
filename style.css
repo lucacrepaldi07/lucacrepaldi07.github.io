@@ -6,6 +6,13 @@
     }
 }
 
+@media only screen and (min-width: 992px) {
+    .text2526 p {
+       margin-left:400px;
+       margin-right:400px; 
+    }
+}
+
 html, body {
     height: 100%;
     margin: 0;
@@ -34,7 +41,7 @@ body, h2 {
     text-align: center;
 }
 
-p a {
+a {
     text-decoration:#00ffa3;
     color: #00ffa3;
 }
